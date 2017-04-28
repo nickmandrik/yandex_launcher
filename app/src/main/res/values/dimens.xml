@@ -1,0 +1,29 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!-- width of next button on welcome activity -->
+    <dimen name="width_button_next">200dp</dimen>
+
+
+    <!-- Size of square images on viewpager -->
+    <dimen name="size_image_on_view_pager">160dp</dimen>
+
+
+    <!-- Sizes of image and padding of view on recycler -->
+    <dimen name="width_image_recycler_4x6">55dp</dimen>
+    <dimen name="height_image_recycler_4x6">55dp</dimen>
+    <dimen name="marge_top_image_recycler_4x6">10dp</dimen>
+    <dimen name="width_text_recycler_4x6">85dp</dimen>
+
+    <dimen name="height_text_recycler">38dp</dimen>
+
+    <dimen name="width_image_recycler_5x7">40dp</dimen>
+    <dimen name="height_image_recycler_5x7">50dp</dimen>
+
+    <dimen name="width_uri_input">220dp</dimen>
+    <dimen name="height_uri_input">40dp</dimen>
+    <dimen name="height_row_uri">70dp</dimen>
+</resources>

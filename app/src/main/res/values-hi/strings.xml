@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">लांचर</string>
+    <string name="next">आगे</string>
+    <string name="yandex_launcher">Yandex लांचर</string>
+    <string name="released_by">Released by Nick Mandrik</string>
+    <string name="launcher_info">आप के लिए सरल और सहज लांचर</string>
+    <string name="news">समाचार</string>
+    <string name="news_info">अपने फोन पर इंटरनेट से नवीनतम समाचार</string>
+    <string name="inter">इंटरफ़ेस</string>
+    <string name="inter_info">आसान से उपयोग इंटरफ़ेस।
+         उत्पादकता वृद्धि। सुंदर उपस्थिति</string>
+    <string name="new_apps">नई</string>
+    <string name="popular_apps">लोकप्रिय</string>
+    <string name="all_apps">सब</string>
+    <string name="begin">मुखपृष्ठ पर जाएं</string>
+    <string name="deleting">निष्कासन</string>
+    <string name="delete">हटाना</string>
+    <string name="confirm_delete">"क्या आप वाकई एप्लिकेशन निकालना चाहते हैं"</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="running_process">लोड हो रहा है ...</string>
+    <string name="see_info">जानकारी देखें</string>
+    <string name="select_size">प्रदर्शन का आकार चुनें</string>
+    <string name="select_theme">चुनिंदा विषय</string>
+    <string name="light">रोशनी</string>
+    <string name="dark">अंधेरे</string>
+</resources>

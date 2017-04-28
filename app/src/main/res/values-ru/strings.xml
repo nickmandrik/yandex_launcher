@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лаунчер</string>
+    <string name="next">Далее</string>
+    <string name="yandex_launcher">Яндекс лаунчер</string>
+    <string name="released_by">© Николай Мандрик</string>
+    <string name="launcher_info">Простой и понятный лаунчер специально для вас</string>
+    <string name="news">Новости</string>
+    <string name="news_info">Свежие новости из интернета в вашем телефоне</string>
+    <string name="inter">Интерфейс</string>
+    <string name="inter_info">Простой и понятный в использовании интерфейс.
+        Повышенная производительность. Красивый внешний вид</string>
+    <string name="new_apps">Новые</string>
+    <string name="popular_apps">Популярные</string>
+    <string name="all_apps">Все</string>
+    <string name="begin">Начать</string>
+    <string name="deleting">Удаление</string>
+    <string name="delete">Удалить</string>
+    <string name="confirm_delete">"Вы уверены что хотите удалить приложение "</string>
+    <string name="cancel">Отменить</string>
+    <string name="running_process">Идет загрузка...</string>
+    <string name="see_info">Просмотреть информацию</string>
+    <string name="select_size">Выберите размер отображения</string>
+    <string name="select_theme">Выберите тему</string>
+    <string name="light">Светлая</string>
+    <string name="dark">Темная</string>
+</resources>

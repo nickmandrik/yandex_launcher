@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1.2"
+    android:gravity="center">
+
+    <Button
+        android:text="@string/hide_favorites"
+        android:layout_width="@dimen/width_uri_input"
+        android:layout_height="wrap_content"
+        android:id="@+id/but_hide_fav"
+        android:layout_margin="10dp"
+        android:textAllCaps="false"
+        android:onClick="hideFavorites"/>
+
+    <Button
+        android:text="@string/clear_favorites"
+        android:layout_width="@dimen/width_uri_input"
+        android:layout_height="wrap_content"
+        android:id="@+id/clear_favorites"
+        android:layout_margin="10dp"
+        android:textAllCaps="false"
+        android:onClick="clearFavorites"/>
+
+    <Button
+        android:text="@string/change_theme"
+        android:layout_width="@dimen/width_uri_input"
+        android:layout_height="wrap_content"
+        android:id="@+id/change_theme"
+        android:layout_margin="10dp"
+        android:textAllCaps="false"
+        android:onClick="changeTheme"/>
+
+    <Button
+        android:text="@string/change_count_ceils_in_row"
+        android:layout_width="@dimen/width_uri_input"
+        android:layout_height="wrap_content"
+        android:id="@+id/change_count_in_row"
+        android:layout_margin="10dp"
+        android:textAllCaps="false"
+        android:onClick="changeCountCeils"/>
+
+    <NumberPicker
+        android:layout_width="@dimen/width_uri_input"
+        android:layout_height="@dimen/height_uri_input"
+        android:id="@+id/number_memorable_uri"
+        android:layout_margin="10dp"
+        android:textAllCaps="false"
+        >
+
+    </NumberPicker>
+
+    <Button
+        android:text="@string/change_memorable_uri"
+        android:layout_width="@dimen/width_uri_input"
+        android:layout_height="@dimen/height_uri_input"
+        android:id="@+id/change_memorable_uri"
+        android:layout_margin="10dp"
+        android:textAllCaps="false"
+        android:onClick="changeMemorableUri"/>
+
+    <Button
+        android:text="@string/clear_history_uri"
+        android:layout_width="@dimen/width_uri_input"
+        android:layout_height="@dimen/height_uri_input"
+        android:id="@+id/clear_history_uri"
+        android:layout_margin="10dp"
+        android:textAllCaps="false"
+        android:onClick="clearHistoryUri"/>
+
+</LinearLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yandex.mandrik.launcher">
+
+    <uses-permission
+        android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <uses-permission
+        android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AmberTheme.Light">
+        <activity android:name="com.yandex.mandrik.launcher.welcomeactivity.WelcomeActivity">
+        </activity>
+        <activity android:name="com.yandex.mandrik.launcher.settingsactivity.SettingsActivity">
+        </activity>
+        <activity
+            android:launchMode="singleTask"
+            android:name="com.yandex.mandrik.launcher.listappsactivity.ListAppsViewPagerActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.HOME" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+
+        <receiver android:name ="com.yandex.mandrik.launcher.util.receiver.UpdateApplicationReceiver"
+            android:enabled="true">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED"/>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_CHANGED" />
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+    </application>
+
+</manifest>

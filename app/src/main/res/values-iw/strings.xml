@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">משגר</string>
+    <string name="yandex_launcher">ברוכים הבאים!</string>
+    <string name="begin">להמשיך</string>
+    <string name="deleting">הסרה</string>
+    <string name="delete">מחק</string>
+    <string name="confirm_delete">האם אתה בטוח שברצונך להסיר אפליקציה</string>
+    <string name="cancel">לבטל</string>
+    <string name="running_process">לחכות</string>
+    <string name="see_info">צפו בפרטים</string>
+    <string name="next">עוד</string>
+    <string name="released_by"> kirdnaM kciN ©</string>
+    <string name="launcher_info">משגר פשוט ואינטואיטיבי בשבילך</string>
+    <string name="news">חדשות</string>
+    <string name="news_info">החדשות האחרונות מהאינטרנט בטלפון</string>
+    <string name="inter">ממשק</string>
+    <string name="inter_info">פרודוקטיביות מוגברת. מראה יפהממשק לשימוש קל.</string>
+    <string name="new_apps">חדש</string>
+    <string name="popular_apps">פופולרי</string>
+    <string name="all_apps">כל</string>
+    <string name="select_size">בחר גודל תצוגה</string>
+    <string name="select_theme">בחר ערכת נושא</string>
+    <string name="light">אוֹר</string>
+    <string name="dark">אפל</string>
+</resources>

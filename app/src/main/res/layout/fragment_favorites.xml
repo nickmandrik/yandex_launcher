@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="2">
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:minHeight="@dimen/height_row_uri"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="15dp">
+
+        <ImageView
+            android:text="Enter"
+            android:layout_width="@dimen/height_uri_input"
+            android:layout_height="@dimen/height_uri_input"
+            android:id="@+id/buttonEnterUri"
+            android:background="@android:drawable/ic_search_category_default" />
+
+        <EditText android:layout_height="wrap_content"
+            android:id="@+id/editUri"
+            android:layout_width="@dimen/width_uri_input"
+            android:background="@drawable/input_uri"
+            android:padding="10dp"
+            android:textColor="?colorAccent"
+            android:minHeight="@dimen/height_uri_input"
+            android:clickable="true"
+            android:focusableInTouchMode="true"
+            android:layout_marginRight="30dp">
+
+        </EditText>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="60dp"
+        android:layout_marginBottom="10dp">
+
+        <Spinner
+            android:layout_width="@dimen/width_uri_input"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinner"
+            android:minHeight="@dimen/height_uri_input"
+            android:padding="10dp"
+            android:background="@drawable/choose_uri"
+            android:textColor="?colorAccent"
+            android:visibility="invisible"
+            />
+    </TableRow>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/favoritesRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:focusableInTouchMode="true"
+        android:layout_weight="1" />
+
+</LinearLayout>

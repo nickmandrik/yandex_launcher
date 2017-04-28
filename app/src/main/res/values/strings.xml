@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Launcher</string>
+    <string name="yandex_launcher">Yandex launcher</string>
+    <string name="released_by">Released by Nick Mandrik</string>
+    <string name="launcher_info">Simple and intuitive launcher special for you</string>
+    <string name="news">News</string>
+    <string name="news_info">Latest news of the Internet in your device</string>
+    <string name="inter">Interface</string>
+    <string name="inter_info">Simple and intuitive interface.
+        Increased productivity. Beautiful appearance</string>
+    <string name="new_apps">New applications</string>
+    <string name="popular_apps">Popular applications</string>
+    <string name="all_apps">All applications</string>
+    <string name="next">Next</string>
+    <string name="begin">Begin</string>
+    <string name="deleting">Deleting</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_delete">"Are you sure to delete app "</string>
+    <string name="cancel">Cancel</string>
+    <string name="running_process">Running the process...</string>
+    <string name="see_info">See information</string>
+    <string name="select_size">Select display size</string>
+    <string name="select_theme">Select theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+
+
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="favorites">Favorites</string>
+    <string name="delete_favorite">Delete shortcut</string>
+    <string name="confirm_delete_favorite">"Are you sure to delete app from favorites "</string>
+    <string name="incorrect_uri">"Incorrect URI "</string>
+    <string name="last_uris">"Last URIs"</string>
+    <string name="submit">"Submit"</string>
+    <string name="hide_favorites">"Hide favorites"</string>
+    <string name="show_favorites">"Show favorites"</string>
+    <string name="clear_favorites">"Clear favorites"</string>
+    <string name="change_theme">"Change theme"</string>
+    <string name="change_count_ceils_in_row">"Change count ceils in row"</string>
+    <string name="change_memorable_uri">"Change count in history URI"</string>
+    <string name="clear_history_uri">"Clear history URI"</string>
+</resources>
