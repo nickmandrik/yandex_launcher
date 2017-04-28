@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\LauncherUI\app\build\intermediates\exploded-aar\com.yandex.android\mobmetricalib\2.62\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="04d1c3b83bcab82397680878b1ca17e182297331">
+        <dex dex="D:\LauncherUI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.yandex.android-mobmetricalib-2.62_a77021d78456fd57046a52fd8bf544d03404c6f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LauncherUI\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2969db7b5e6d8a9499094f6721959edf0edf8c3a">
+        <dex dex="D:\LauncherUI\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b56344121a580068283c7ee930528dd3cc83fd08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LauncherUI\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\LauncherUI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_878ffa6915e90ccb0d51f78291e5b82e95b027b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LauncherUI\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\LauncherUI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_70c0bbeb6de96d40459de1d3dc4b3505efdb5790\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LauncherUI\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\LauncherUI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_5a1e6e98bea1873eeec4a2a0852ee354d3dbe55a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LauncherUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\LauncherUI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_6189ba7231f2bed1cd55c00b78d87032b33865c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LauncherUI\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\LauncherUI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_ccbe1d19c6942b2ffa216f855c275c7c5185adbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LauncherUI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\LauncherUI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_81c6c9d1f419ebed422eebc73ee2b58c6d8455c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LauncherUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\LauncherUI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_587af5948edf38f5c4d123d0d927c58fbafd94f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\LauncherUI\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_5ec03b24e8b949e38ab3588a7e4a67b06664109c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\LauncherUI\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_e6d7c256f90adfebb407daf9735c79114f055a2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LauncherUI\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7070b38cf605ec5e61b37dd2e231951e860f059a">
+        <dex dex="D:\LauncherUI\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6e4b623f77b6d00836b1cc047590ffd957428379\classes.dex" />
+    </item>
+
+</items>
